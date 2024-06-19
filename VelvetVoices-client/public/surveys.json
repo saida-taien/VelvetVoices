@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Favorite Programming Language",
+        "description": "Tell us about your favorite programming language and why you like it.",
+        "category": "Technology",
+        "votes": 150,
+        "created_at": "2024-01-15T10:00:00Z",
+        "deadline": "2024-06-15T10:00:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Best Travel Destinations 2024",
+        "description": "Share your thoughts on the best travel destinations for the year 2024.",
+        "category": "Travel",
+        "votes": 85,
+        "created_at": "2024-02-10T11:00:00Z",
+        "deadline": "2024-07-10T11:00:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Healthy Eating Habits",
+        "description": "What are your healthy eating habits? Share your tips and routines.",
+        "category": "Health",
+        "votes": 120,
+        "created_at": "2024-03-05T09:30:00Z",
+        "deadline": "2024-08-05T09:30:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Impact of Remote Work",
+        "description": "How has remote work impacted your productivity and work-life balance?",
+        "category": "Work",
+        "votes": 200,
+        "created_at": "2024-04-20T08:45:00Z",
+        "deadline": "2024-09-20T08:45:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Favorite Streaming Services",
+        "description": "Which streaming services do you prefer and why?",
+        "category": "Entertainment",
+        "votes": 95,
+        "created_at": "2024-05-15T12:15:00Z",
+        "deadline": "2024-10-15T12:15:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Climate Change Awareness",
+        "description": "What are your thoughts on climate change and how can we combat it?",
+        "category": "Environment",
+        "votes": 160,
+        "created_at": "2024-06-01T14:00:00Z",
+        "deadline": "2024-11-01T14:00:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Pet Preferences",
+        "description": "Do you prefer cats, dogs, or other pets? Share your reasons.",
+        "category": "Lifestyle",
+        "votes": 110,
+        "created_at": "2024-06-20T13:00:00Z",
+        "deadline": "2024-12-20T13:00:00Z",
+        "status": "publish"
+    },
+    {
+        "title": "Online Learning Experiences",
+        "description": "What has been your experience with online learning platforms?",
+        "category": "Education",
+        "votes": 140,
+        "created_at": "2024-07-10T15:30:00Z",
+        "deadline": "2024-12-10T15:30:00Z",
+        "status": "publish"
+    }
+]
